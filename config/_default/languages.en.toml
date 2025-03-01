@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Aamir Raja"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  description = "Personal website of Aamir Raja"
+
+[params.author]
+  name = "Aamir Raja"
+  image = "Remove background project.jpeg"
+  headline = "Data Scientist | Data Science MSc | Economics BSc"
+  bio = "Data Scientist | Data Science MSc | Economics BSc"
+  links = [
+    { medium = "https://medium.com/@aamir34234" },
+    { github = "https://github.com/aamirraja393" },
+    { linkedin = "https://www.linkedin.com/in/aamir-raja31/" },
+  ]
